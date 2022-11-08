@@ -2,7 +2,7 @@
 
 Programa y lecturas del curso Introducción a las Humanidades Digitales, Ibero 2022
 
-- Programa: [Programa]('programa Introducción a las HD - 2022.pdf')
+- <a href="programa Introducción a las HD - 2022.pdf" target="_blank">Programa</a>
 
 - Lecturas:
-  - [Fiormonte et al., 2015, pt. 1]('lecturas/Fiormonte, Numerico, y Tomasi 2015, pt. 1.pdf')
+  - <a href="lecturas/Fiormonte, Numerico, y Tomasi 2015, pt. 1.pdf" target="_blank">Fiormonte et al., 2015, pt. 1</a>
