@@ -5,7 +5,7 @@ Programa y lecturas del curso Introducción a las Humanidades Digitales, Ibero 2
 - [Programa](https://github.com/Taller-Abierto-de-Humanidades-Digitales/curso-intro-HD-IBERO-2022/raw/main/programa%20Introducci%C3%B3n%20a%20las%20HD%20-%202022.pdf)
 - [Encuesta de entrada](https://forms.gle/3PBnsRbBAH7uTTxq7)
 
-## Sesiones y lecturas:
+## Sesiones y lecturas
 
 ### Sesión 2: Cómputo y humanidades: un intercambio por resaltar
 
@@ -26,3 +26,10 @@ Programa y lecturas del curso Introducción a las Humanidades Digitales, Ibero 2
 - Lecturas sugeridas:
   - [Goddard & Seeman, 2020](https://github.com/Taller-Abierto-de-Humanidades-Digitales/recursos/blob/main/PDF/Goddard%26Seeman%2C2020.pdf)
   - Siemens, 2016* <sub>Todavía no disponible</sub>
+
+
+## Presentaciones
+
+Estas presentaciones son las utilizadas en el curso:
+
+- [Humanidades digitales como proyectos y prácticas](https://docs.google.com/presentation/d/1fZbzuRLib1Rvfz0q-TCHkw4a6k5Q6RGZxwSu7v6mHHU/edit?usp=sharing) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7331111.svg)](https://doi.org/10.5281/zenodo.7331111)
