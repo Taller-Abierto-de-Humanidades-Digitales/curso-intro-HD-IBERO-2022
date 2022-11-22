@@ -27,6 +27,13 @@ Programa y lecturas del curso Introducción a las Humanidades Digitales, Ibero 2
   - [Goddard & Seeman, 2020](https://github.com/Taller-Abierto-de-Humanidades-Digitales/recursos/blob/main/PDF/Goddard%26Seeman%2C2020.pdf)
   - Siemens, 2016* <sub>Todavía no disponible</sub>
 
+### Sesión 6: Conoce tu computadora
+
+- Cuaderno
+
+### Sesiones 7 y 8: Curso intensivo en Python
+
+- [Curso rápido de Python](https://taller-abierto-de-humanidades-digitales.github.io/curso_python/intro.html)
 
 ## Presentaciones
 
